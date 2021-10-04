@@ -68,15 +68,15 @@ Ce projet est une inspiration pour une application mobile sur Pokémon, telle qu
 Clonez ce référentiel et accédez au répertoire.
 
 ```bash
-$ git clone git@github.com:LeeonardoVargas/pokedex.git && cd pokedex
+$ git clone https://github.com/CCSERIGNE/PetalMD.git && cd pokedex
 ```
 
 ```bash
 # Installation des dépendances
-$ fil
+$ yarn
 
 # Application en cours d'exécution
-$ début de fil
+$ yarn start
 
 ```
 
