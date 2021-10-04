@@ -54,7 +54,7 @@ Ce projet est une inspiration pour une application mobile sur Pokémon, telle qu
 
 - Les caractéristiques de combat de chaque Pokémon ne sont pas exactes, la raison en est que je n'ai pas trouvé la base de calcul pour chaque espèce, car il n'y a pas de schéma général et il y a plusieurs espèces j'ai décidé de limiter les informations dans ce domaine .
 
-## :fusée: Technologies
+## Technologies
 
 - [Réagir](https://pt-br.reactjs.org/)
 - [Styled-components](https://www.styled-components.com/)
